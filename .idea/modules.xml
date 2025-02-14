@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/.mvn/.mvn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/goldmedal.iml" filepath="$PROJECT_DIR$/src/goldmedal.iml" />
     </modules>
   </component>
 </project>
